@@ -9,8 +9,8 @@
   "author": "MdSalmanFaris",
   "license": "ISC",
   "script": {
-    "dev": "nodemon app.js",
-    "start": "node app.js"
+    
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
